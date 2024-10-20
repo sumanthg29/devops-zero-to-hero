@@ -86,3 +86,17 @@ Maven installetion:
 Prerequired to install maven we need java
 if maven 3.3+ - jdk 1.7 or above
 
+
+defaule files for managenent tool
+ANT  -> build.xml
+Maven -> pom.xml
+gradel -> build.gradel
+
+
+simple content in pom.xml
+<project>
+<groupId>Com.facebook</groupId>
+
+</project>
+
+
